@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name":"Figura kokun",
+        "price":11000,
+        "category":"figura",
+        "year":"2022",
+        "imgFrontUrl":"",
+        "imgBackUrl":""
+    },
+    {
+        "id": 2,
+        "name":"figura shingeki",
+        "price":10000,
+        "category":"figura",
+        "year":"2022",
+        "imgFrontUrl":"",
+        "imgBackUrl":""
+    }
+    
+]
